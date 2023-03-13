@@ -8,7 +8,7 @@ Here are the projects on which I have worked on and successfully completed. I ha
 
 | ${Serial \space No}$ | ${Category}$ | ${Number \space of \space Projects}$ | ${Subfolder \space Link}$ |
 |-|-|-|-|
-| $${1.}$$ | ***Computer Vision*** | $${3}$$ | [Subfolder]() |
+| $${1.}$$ | ***Computer Vision*** | $${3}$$ | [Subfolder](https://github.com/VishuKalier2003/Projects-Platform/blob/main/Folder/ComputerVision.md) |
 | $${2.}$$ | ***Natural Language Processing*** | $${4}$$ | [Subfolder]() |
 | $${3.}$$ | ***Object Detection*** | $${2}$$ | [Subfolder]() |
 | $${4.}$$ | ***Forecasts*** | $${3}$$ | [Subfolder]() |
@@ -23,5 +23,16 @@ These are the projects on which I have ***collaborated with the Industry and the
 | ${Serial \space No}$ | ${Project \space Name}$ | ${Individual \space Role}$ | ${Subfolder \space Link}$ |
 |-|-|-|-|
 | $${1.}$$ | ***Sillicon Valley Chapter, California, Weather Forecasting for Two Week Period*** | ***Task Leader, EDA and Feature Extraction*** | [Subfolder]() |
-| $${1.}$$ | ***Aswan Chapter, Egypt, Detecting Hate Speech and Malignant Comments*** | ***Task Leader, Data Preprocessing and EDA*** | [Subfolder]() |
-| $${1.}$$ | ***Munich Chapter, Germany, Detecting Deep Fake Images with AI*** | ***Task Leader, Feature Extraction and Model Training*** | [Subfolder]() |
+| $${2.}$$ | ***Aswan Chapter, Egypt, Detecting Hate Speech and Malignant Comments*** | ***Task Leader, Data Preprocessing and EDA*** | [Subfolder]() |
+| $${3.}$$ | ***Munich Chapter, Germany, Detecting Deep Fake Images with AI*** | ***Task Leader, Feature Extraction and Model Training*** | [Subfolder]() |
+
+-----
+
+## ${Contributed \space By}$
+***Vishu Kalier***
+
+
+
+
+
+
