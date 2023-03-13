@@ -22,9 +22,9 @@ These are the projects on which I have ***collaborated with the Industry and the
 ## ${Omdena \space Projects}$
 | ${Serial \space No}$ | ${Project \space Name}$ | ${Individual \space Role}$ | ${Subfolder \space Link}$ |
 |-|-|-|-|
-| $${1.}$$ | ***Sillicon Valley Chapter, California, Weather Forecasting for Two Week Period*** | ***Task Leader, EDA and Feature Extraction*** | [Subfolder]() |
-| $${2.}$$ | ***Aswan Chapter, Egypt, Detecting Hate Speech and Malignant Comments*** | ***Task Leader, Data Preprocessing and EDA*** | [Subfolder]() |
-| $${3.}$$ | ***Munich Chapter, Germany, Detecting Deep Fake Images with AI*** | ***Task Leader, Feature Extraction and Model Training*** | [Subfolder]() |
+| $${1.}$$ | ***Sillicon Valley Chapter, California, Weather Forecasting for Two Week Period*** | ***Task Leader, EDA and Feature Extraction*** | [Subfolder](https://github.com/OmdenaAI/silicon-valley-chapter-extreme-weather) |
+| $${2.}$$ | ***Aswan Chapter, Egypt, Detecting Hate Speech and Malignant Comments*** | ***Task Leader, Data Preprocessing and EDA*** | [Subfolder](https://github.com/OmdenaAI/aswan-egypt-detecting-hate-nlp) |
+| $${3.}$$ | ***Munich Chapter, Germany, Detecting Deep Fake Images with AI*** | ***Task Leader, Feature Extraction and Model Training*** | [Subfolder](https://github.com/OmdenaAI/omdena-munich-chapter-deepfakes-detection) |
 
 -----
 
