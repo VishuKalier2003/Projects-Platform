@@ -1,5 +1,5 @@
 
-# ${Computer \space Vision \space Projects}$
+# ${\color{lightblue}Computer \space Vision \space Projects}$
 
 
 Here are the ***Computer Vision*** domain projects on which I have individually worked and successfully completed them. The below table provides the Project name and 
@@ -7,7 +7,7 @@ links to the ***specific directories*** of each Project.
 
 -----
 
-## ${Project \space Table}$
+## ${\color{lightblue}Project \space Table}$
 
 | ${Serial \space No}$ | ${Project \space Name}$ | ${Project \space Link}$ | ${Completion \space Status}$
 |-|-|-|-|
@@ -17,5 +17,5 @@ links to the ***specific directories*** of each Project.
 
 -----
 
-## ${Contributed \space By}$
+## ${\color{lightblue}Contributed \space By}$
 ***Vishu Kalier***
