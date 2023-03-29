@@ -13,7 +13,7 @@ Here are the projects on which I have worked on and successfully completed. I ha
 | $${3.}$$ | ${\color{lightgreen}Object \space Detection}$ | $${2}$$ | [Subfolder]() |
 | $${4.}$$ | ${\color{lightgreen}Forecasts}$ | $${3}$$ | [Subfolder]() |
 | $${5.}$$ | ${\color{lightgreen}Audio \space and \space Video \space Processing}$ | $${2}$$ | [Subfolder]() |
-| $${6.}$$ | ${\color{lightgreen} Quantum \space Computation}$ | $${1}$$ | [Subfolder](https://github.com/VishuKalier2003/Quantum-Programming) |
+| $${6.}$$ | ${\color{lightgreen} Quantum \space Computation}$ | $${2}$$ | [Subfolder](https://github.com/VishuKalier2003/Quantum-Programming) |
 
 -----
 
